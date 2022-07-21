@@ -1,1 +1,1 @@
-Just game
+Modified flappy-bird game about my boss, whom I don't like
